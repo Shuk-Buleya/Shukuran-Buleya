@@ -1,9 +1,10 @@
 ## 👋 Hey there, I'm Shukuran Buleya!
 
 ### 🛠️ Tech Stack:
-- **Languages:** Python, JavaScript, PHP, C++, C,SQL, Apex
+- **Languages:** Python, JavaScript, PHP, C++, C,SQL, C#, Apex
 - **Frameworks & Tools:**
   - Django
+  - .NET
   - FastAPI
   - Express
   - React
