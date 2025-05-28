@@ -10,8 +10,8 @@
   - React
   - React Native
   - Lightning Web Components (Salesforce)
-  - Bootstrap
   - Tailwind CSS
+  - Bootstrap
 - **Databases:** MySQL, PostgreSQL
 - **Other Interests:** Data Science and Artificial Interigence, Cloud Computing, Cybersecurity
 
